@@ -27,5 +27,30 @@
 
 ![Broken python logo](https://img.icons8.com/color/48/000000/python.png)
 
+---
+
+| co1 | co2 |
+|---- | ----|
+|h    | g   |
+|i    | j   |
 
 
+```python
+def(add):
+a=b
+```
+
+~~strike~~
+
+- [x] task1
+- [ ] task2
+
+smile 🙂
+
+---
+
+my name is ==karthi==.
+
+H~2~O
+
+x^2^ = ==4x==
