@@ -6,7 +6,9 @@
 ###### sh
 
 **bold**
+
 *italic*
+
 ***bold & italic***
 
 > helloworld
@@ -18,7 +20,16 @@
 
 - 1
 - 2
-- 3
++ 3
++ 4
+* 5
+* 6
+
+- h
+   * e
+      + l
+         - l
+           * o
 
 `print("hello")`
 
@@ -50,15 +61,20 @@ a=b
 
 smile 🙂
 
+:smile:
+
 ---
-
-my name is ==karthi==.
-
-H~2~O
-
-x^2^ = ==4x==
-
 
 link to h1:[To heading 1](#h1)
 
 link to heading:[To sample heading](#sample-heading)
+
+---
+
+simple footnote[^1].
+
+footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
