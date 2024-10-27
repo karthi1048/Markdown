@@ -7,6 +7,7 @@
 
 **bold**
 *italic*
+***bold & italic***
 
 > helloworld
 > world
@@ -54,3 +55,6 @@ my name is ==karthi==.
 H~2~O
 
 x^2^ = ==4x==
+
+
+link to h1:[This link will take you to heading 1](#h1)
