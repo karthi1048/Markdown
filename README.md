@@ -24,6 +24,8 @@
 
 ---
 
+# sample heading
+
 [github](https://github.com/karthi1048)
 
 ![Broken python logo](https://img.icons8.com/color/48/000000/python.png)
@@ -57,4 +59,6 @@ H~2~O
 x^2^ = ==4x==
 
 
-link to h1:[This link will take you to heading 1](#h1)
+link to h1:[To heading 1](#h1)
+
+link to heading:[To sample heading](#sample-heading)
